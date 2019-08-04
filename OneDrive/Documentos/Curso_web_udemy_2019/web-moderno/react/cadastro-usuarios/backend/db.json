@@ -1,0 +1,11 @@
+{ 
+    "users": [{
+        "id": 1,
+        "name": "Arturito de la Casa de Moeda de la España",
+        "email": "aoliveira@cod3er.com.br"
+    }, {
+        "id": 2,
+        "name": "Maria Antonieta De Las Nieves",
+        "email": "madln@empresa.com"
+    }]
+}
