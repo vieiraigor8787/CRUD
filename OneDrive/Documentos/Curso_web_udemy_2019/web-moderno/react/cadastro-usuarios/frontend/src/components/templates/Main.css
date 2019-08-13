@@ -1,0 +1,4 @@
+main > div{
+    background: #fff;
+    box-shadow: var(--shadow)
+}
